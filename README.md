@@ -6,9 +6,9 @@
 * 能够随时修改填充颜色的涟漪波纹
 * 从中心向四周扩散动画
 
-![DDYRippleView.png](https://github.com/starainDou/DDYRippleView/blob/master/DDYRippleView.png)
+![DDYRippleView.png](https://github.com/starainDou/DDYDemoImage/blob/master/DDYRippleView.png)
 
-### 默认
+### 默认样式
 
 ```
 self.ringWidth = 1.5;
